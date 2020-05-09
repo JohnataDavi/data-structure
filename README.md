@@ -1,2 +1,2 @@
-# Estruturas de Dados
-Estrutura de dados implementadas em C++.
+# Data Structures
+Data structure implemented using C++.
